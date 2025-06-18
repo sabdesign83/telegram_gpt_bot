@@ -1,4 +1,3 @@
 python-telegram-bot==20.3
 openai==0.28
 python-dotenv
-Fix: pin OpenAI version to 0.28
